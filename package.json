@@ -1,0 +1,25 @@
+{
+  "name": "reset-body",
+  "version": "0.0.1",
+  "description": "reset-body opaque mixin",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/reset-body"
+  },
+  "keywords": [
+    "reset",
+    "body",
+    "shoelace",
+    "stylus"
+  ],
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/reset-body/issues"
+  },
+  "homepage": "https://github.com/shoelace-ui/reset-body"
+}
