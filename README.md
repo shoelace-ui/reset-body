@@ -1,11 +1,13 @@
 # reset-body
-`reset-body` opaque mixin
 
-## Installation
-```sh
-$ npm install git://github.com/shoelace-ui/reset-body.git
+reset-body opaque mixin
+
+## Usage
+
+```stylus
+@require 'shoelace-ui-reset-body'
 ```
 
 ## License
 
-[MIT](./LICENSE)
+MIT
